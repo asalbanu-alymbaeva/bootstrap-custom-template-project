@@ -1,0 +1,130 @@
+/* CORE STYLES */
+
+@media (min-width: 1400px){
+    .container{
+        max-width: 1140px;
+    }
+}
+
+/* Text colors */
+
+.text-dark-custom {
+    color: #3a3a47!important;
+}
+
+.text-grey-custom {
+    color: #5c5c5c!important;
+}
+
+.text-light-grey-custom {
+    color: #818198!important;
+}
+
+/* Background colors */
+
+.bg-primary-custom {
+    background-color: #f0f5f9!important;
+}
+
+/* /CORE STYLES */
+
+/* NAVIGATION MENU */
+
+.navbar-brand{
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link{
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+
+/* /NAVIGATION MENU */
+
+/* HOME SECTION */
+
+.home-section{
+    padding: 150px 0 100px 0;
+}
+
+/* /HOME SECTION */
+
+/* ABOUT SECTION */
+
+.card-img-top{
+    width: 80px;
+}
+
+.about-card-1{
+    background-color: #FFF2E5;
+}
+
+.about-card-2{
+    background-color: #F8F9FA;
+}
+
+.about-card-3{
+    background-color: #F0F5F9;
+}
+
+/* /ABOUT SECTION */
+
+/* FEATURES SECTION */
+
+.features-section{
+    background-color: #F0F5F9;
+}
+
+/* /FEATURES SECTION */
+
+/* RESULTS SECTION */
+
+.col-image{
+    width: 80px;
+}
+
+/* /RESULTS SECTION */
+
+/* REVIEWS SECTION */
+
+.reviews__container{
+    padding: 100px 50px;
+    background-color: #F0F5F9;
+}
+
+.carousel-item__icon, .carousel-item__image{
+    width: 60px;
+}
+
+/* /REVIEWS SECTION */
+
+/* PRICING SECTION */
+
+.pricing-card{
+    background-color: #f0f5f9;;
+}
+
+.card-image{
+    width: 120px;
+}
+
+/* /PRICING SECTION */
+
+/* FAQ SECTION */
+
+.faq__container{
+    background-color: #F0F5F9;
+}
+
+/* /FAQ SECTION */
+
+/* FOOTER SECTION */
+
+.footer-icon{
+    width: 25px;
+}
+
+/* /FOOTER SECTION */
