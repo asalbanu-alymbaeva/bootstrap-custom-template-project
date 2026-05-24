@@ -42,7 +42,7 @@ The layout is fully responsive and adapts to different screen sizes using **Boot
 This project was created as part of my **front-end development learning journey** to practice Bootstrap layout, components, and responsive design.
 
 ## 📸 Preview
-You can open the `index.html` file in your browser to view the template.
+https://radiant-dasik-3a7f92.netlify.app/
 
 ---
 
